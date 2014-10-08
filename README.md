@@ -33,8 +33,8 @@ Crc32.calculate('12397538', 8, 0)
 
 ## Credits
 
-[Stephan Brumme](http://stephan-brumme.com/aboutme/vitae.html) for his [wonderful explanation of CRC32 algorithms](http://create.stephan-brumme.com/crc32/).
-[Intel Corp.](http://intel.com) for [slicing-by-8](http://sourceforge.net/projects/slicing-by-8/) algorithm.
+* [Stephan Brumme](http://stephan-brumme.com/aboutme/vitae.html) for his [wonderful explanation of CRC32 algorithms](http://create.stephan-brumme.com/crc32/).
+* [Intel Corp.](http://intel.com) for [slicing-by-8](http://sourceforge.net/projects/slicing-by-8/) algorithm.
 
 ## History
 
