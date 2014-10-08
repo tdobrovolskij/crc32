@@ -26,7 +26,10 @@ To calculate CRC32 for some data:
 
 For example:
 
-    Crc32.calculate('12397538', 8, 0)
+```ruby
+require 'crc32'
+Crc32.calculate('12397538', 8, 0)
+```
 
 ## Credits
 
