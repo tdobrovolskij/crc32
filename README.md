@@ -2,7 +2,7 @@
 
 [![Gem Version](https://badge.fury.io/rb/crc32.svg)](http://badge.fury.io/rb/crc32)
 
-This gem implements Intel's splicing-by-8 CRC32 calculation algorithm for ruby. This should be approximately 4 times as fast as Zlib's CRC32 implementation.
+This gem implements Intel's slicing-by-8 CRC32 calculation algorithm for ruby. This should be approximately 4 times as fast as Zlib's CRC32 implementation.
 
 ## Installation
 

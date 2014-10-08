@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Crc32::VERSION
   spec.authors       = ["Tadeus Dobrovolskij"]
   spec.email         = ["root@tad-do.net"]
-  spec.description   = %q{Very fast CRC32 calculation based on Intel's splicing-by-8 algorithm.}
-  spec.summary       = %q{CRC32 splicing-by-8 implementation for Ruby.}
+  spec.description   = %q{Very fast CRC32 calculation based on Intel's slicing-by-8 algorithm.}
+  spec.summary       = %q{CRC32 slicing-by-8 implementation for Ruby.}
   spec.homepage      = "https://github.com/tdobrovolskij/crc32"
   spec.license       = "GPLv2"
 
