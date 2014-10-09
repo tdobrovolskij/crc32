@@ -38,7 +38,7 @@ Crc32.calculate('12397538', 8, 0)
 
 ## History
 
-* 1.0.0 - Initial release.
+* 1.0.1 - Initial release.
 
 ## Contributing
 
